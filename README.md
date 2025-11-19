@@ -1,4 +1,4 @@
-# HASIL ANALISIS RFM - CUSTOMER SEGMENTATION
+# HASIL EXPERIMEN SEMENTARA ANALISIS RFM - CUSTOMER SEGMENTATION
 
 ## **Executive Summary**
 Analisis RFM (Recency, Frequency, Monetary) telah berhasil dilakukan pada dataset E-Commerce dengan mengidentifikasi **10 segmen customer** yang berbeda dari **4,290 customer** unik. Hasil menunjukkan bahwa **51.6% customer berada dalam kategori at-risk** yang memerlukan strategi retensi segera.
